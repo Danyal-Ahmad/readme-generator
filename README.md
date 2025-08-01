@@ -12,20 +12,11 @@
 
 ## 🚀 Key Features
 
-- 🤖 **AI-Powered Generation**  
-  Create a full-featured README using OpenAI's GPT-4 with just a few inputs.
-
-- 🧱 **Multiple Templates**  
-  Choose from 6+ optimized layouts tailored to different project styles.
-
-- ⚡ **Live Preview**  
-  Real-time rendering with syntax highlighting as you type.
-
-- 📤 **One-Click Export**  
-  Download your README or copy it directly to clipboard.
-
-- 📱 **Responsive UI**  
-  Fast and fluid interface across mobile, tablet, and desktop.
+- 🤖 Create a full-featured README using OpenAI's GPT-4 with just a few inputs.
+- 🧱 Choose from 6+ optimized layouts tailored to different project styles.
+- ⚡ Real-time rendering with syntax highlighting as you type.
+- 📤 Download your README or copy it directly to clipboard.
+- 📱 Fast and fluid interface across mobile, tablet, and desktop.
 
 ---
 
