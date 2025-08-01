@@ -1,6 +1,8 @@
 # 🧠 README Generator SaaS
 
-![README Generator SaaS](<a href="https://ibb.co/vxLm3WTb"><img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0" border="0"></a>)
+<p align="center">
+  <img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="Banner" />
+</p>
 
 > Instantly generate professional, polished `README.md` files for your projects powered by AI, styled for developers and SaaS founders.
 
@@ -174,4 +176,9 @@ git push origin feature/your-feature-name
 
 ---
 
-<div align="center"> <strong>Craft powerful READMEs with the help of AI.</strong><br/> <sub>Built for developers, startups, and open-source creators.</sub> </div>
+<div align="center">
+  <p>Made with ❤️ for developers worldwide</p>
+  <p>
+    <a href="https://readme-generator-ai.vercel.app">Live Demo</a> 
+  </p>
+</div> 
