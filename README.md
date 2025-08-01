@@ -37,10 +37,9 @@
 |-------------|----------------------------------------|
 | Frontend    | Next.js 14, TypeScript, Tailwind CSS   |
 | Styling     | Tailwind CSS, Framer Motion            |
-| AI Engine   | OpenAI GPT-4 via secure API integration|
+| AI Engine   | OpenAI GPT via secure API integration|
 | Markdown    | React Markdown + Syntax Highlighting   |
 | Icons       | Lucide React                           |
-| Components  | React Server Components (RSC)          |
 
 ---
 
