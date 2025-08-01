@@ -111,22 +111,6 @@ readme-generator-saas/
 
 ---
 
-## 🧪 Dev Tools
-
-```bash
-# Type checking
-npm run type-check
-
-# Linting
-npm run lint
-
-# Unit & E2E Tests
-npm run test
-npm run test:e2e
-```
-
----
-
 ## Contributing
 We welcome community contributions!
 
