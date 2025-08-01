@@ -167,32 +167,34 @@ git push origin feature/your-feature-name
 
 ```
 ---
-<p align="center" style="margin: 2rem 0;">
-  <a href="https://readme-generator-ai.vercel.app"
-     style="
-       display: inline-block;
-       padding: 0.8rem 2.4rem;
-       font-size: 1.3rem;
-       font-weight: 900;
-       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-       color: transparent;
-       background: linear-gradient(270deg, #ff416c, #ff4b2b, #ff416c, #ff4b2b);
-       background-size: 400% 400%;
-       -webkit-background-clip: text;
-       background-clip: text;
-       animation: gradientMove 6s ease infinite;
-       border: 3px solid #ff4b2b;
-       border-radius: 40px;
-       text-decoration: none;
-       transition: transform 0.3s ease, box-shadow 0.3s ease;
-       box-shadow: 0 0 10px rgba(255, 75, 43, 0.6);
-     "
-     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px rgba(255, 75, 43, 0.9)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(255, 75, 43, 0.6)';"
-  >
-    🚀 Live Demo
-  </a>
-</p>
+  <div style="
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    padding: 1rem 2rem;
+    border-radius: 999px;
+    box-shadow: 0 0 20px #7f5af0;
+    animation: pulseGlow 2s ease-in-out infinite;
+    z-index: 2;
+  ">
+    <a 
+      href="https://readme-generator-ai.vercel.app" 
+      style="
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 1.1rem;
+        letter-spacing: 0.5px;
+      "
+    >
+      🚀 Try Live Demo
+    </a>
+  </div>
+
+</div>
 ---
 
 ## 📮 Support
