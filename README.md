@@ -167,38 +167,32 @@ git push origin feature/your-feature-name
 
 ```
 ---
-
-<p align="center" style="margin: 1.5rem 0;">
-  <a href="https://readme-generator-ai.vercel.app" 
+<p align="center" style="margin: 2rem 0;">
+  <a href="https://readme-generator-ai.vercel.app"
      style="
-       position: relative;
        display: inline-block;
-       padding: 0.75rem 2rem;
-       font-size: 1.15rem;
-       font-weight: 700;
-       color: white;
+       padding: 0.8rem 2.4rem;
+       font-size: 1.3rem;
+       font-weight: 900;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       color: transparent;
+       background: linear-gradient(270deg, #ff416c, #ff4b2b, #ff416c, #ff4b2b);
+       background-size: 400% 400%;
+       -webkit-background-clip: text;
+       background-clip: text;
+       animation: gradientMove 6s ease infinite;
+       border: 3px solid #ff4b2b;
+       border-radius: 40px;
        text-decoration: none;
-       border-radius: 30px;
-       background: linear-gradient(270deg, #4F46E5, #8B5CF6, #6366F1);
-       background-size: 600% 600%;
-       animation: gradientShift 8s ease infinite;
-       box-shadow: 0 8px 15px rgba(99, 102, 241, 0.4);
-       transition: box-shadow 0.3s ease;
+       transition: transform 0.3s ease, box-shadow 0.3s ease;
+       box-shadow: 0 0 10px rgba(255, 75, 43, 0.6);
      "
-     onmouseover="this.style.boxShadow='0 12px 24px rgba(139, 92, 246, 0.6)';"
-     onmouseout="this.style.boxShadow='0 8px 15px rgba(99, 102, 241, 0.4)';"
+     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px rgba(255, 75, 43, 0.9)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(255, 75, 43, 0.6)';"
   >
     🚀 Live Demo
   </a>
 </p>
-
-<style>
-@keyframes gradientShift {
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
-}
-</style>
 ---
 
 ## 📮 Support
