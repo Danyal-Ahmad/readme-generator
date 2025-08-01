@@ -1,11 +1,6 @@
 # 🧠 README Generator 
 
-<p align="center">
-  <img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="Banner" style="width: 70%; height: auto;" />
-</p>
-
-
-> Instantly generate professional, polished `README.md` files for your projects powered by AI, styled for developers and SaaS founders.
+> Build stunning, AI-generated README files in under 30 seconds. Crafted for developers, founders, indie hackers, and open-source wizards, this tool instantly generates professional, polished README.md files powered by AI, specifically styled for developers and SaaS founders. Built with love for developers, it accelerates your workflow and helps your projects shine.
 
 ---
 
@@ -169,10 +164,11 @@ git push origin feature/your-feature-name
 ---
 
 ### 📬 Contact & Support
-[![GitHub Issues](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/github-issues.svg)](https://github.com/yourusername/readme-generator-saas/issues) 
-[![Email](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/email.svg)](mailto:support@readmegen.com) 
-[![LinkedIn](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/linkedin.svg)](https://www.linkedin.com/company/readmegen) 
-[![Peerlist](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/peerlist.svg)](https://peerlist.io/readmegen)
+
+[![GitHub Issues](https://img.shields.io/badge/-Issues-24292e?style=for-the-badge&logo=github&logoColor=white&colorA=141414&colorB=3d3d3d)](https://github.com/yourusername/readme-generator-saas/issues)  
+[![Email](https://img.shields.io/badge/-Email-e94235?style=for-the-badge&logo=gmail&logoColor=white&colorA=ff6f61&colorB=e94235)](mailto:support@readmegen.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&colorA=004182&colorB=0a66c2)](https://www.linkedin.com/company/readmegen)  
+[![Peerlist](https://img.shields.io/badge/-Peerlist-00aaff?style=for-the-badge&logo=peerlist&logoColor=white&colorA=0077cc&colorB=00aaff)](https://peerlist.io/readmegen)
 
 
 ---
@@ -187,10 +183,9 @@ git push origin feature/your-feature-name
 ---
 
 <p align="center">
-  <strong><em>🚀 Build stunning, AI-generated README files in under 30 seconds</em></strong><br/>
-  <sub>✨ Crafted for developers, founders, indie hackers & open-source wizards.</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Fast.+Smart.+Beautiful.;AI-powered+README+generation." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Fast.+Smart.+Beautiful.;AI-powered+README+generation." alt="Typing SVG" />
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 20px; color: #9333EA; margin-top: 10px;">
+  Built with <span style="color:#e25555;">&#10084;&#65039;</span> for developers
 </p>
