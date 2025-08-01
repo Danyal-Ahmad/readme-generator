@@ -168,22 +168,16 @@ git push origin feature/your-feature-name
 ```
 ---
 
-## 📮 Support
+### 📬 Contact & Support
 
-- Issues: [GitHub Issues](https://github.com/yourusername/readme-generator-saas/issues)  
-- Email: support@readmegen.com  
-- Twitter: [@readme_generator](https://twitter.com/readme_generator)
+- 🐞 **Issues:** [GitHub Issues](https://github.com/yourusername/readme-generator-saas/issues)  
+- 📧 **Email:** [support@readmegen.com](mailto:support@readmegen.com)  
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/company/readmegen)  
+- 🌐 **Peerlist:** [Peerlist](https://peerlist.io/readmegen)
 
 ---
 ## Live Demo
 
-<div align="center" style="padding: 0; margin: 0; background: linear-gradient(90deg, #6EE7B7, #3B82F6, #9333EA); border-radius: 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0,0,0,0.2);">
-
-  <img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="README Generator Banner" style="width: 100%; max-width: 1400px; display: block;" />
-
-</div>
-
-<br/>
 <p align="center">
   <a href="https://readme-generator-ai.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live Demo-Click%20Here-%239333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge" />
@@ -193,12 +187,11 @@ git push origin feature/your-feature-name
 ---
 
 <p align="center">
-  <strong><em>Build 🔥 stunning README files with AI in under 30 seconds.</em></strong><br/>
-  <sub>Designed for developers, founders, and open-source creators.</sub>
+  <strong><em>🚀 Build stunning, AI-generated README files in under 30 seconds</em></strong><br/>
+  <sub>✨ Crafted for developers, founders, indie hackers & open-source wizards.</sub>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Fast.+Smart.+Beautiful.+;AI-powered+README+generation+for+your+next+project." alt="Typing SVG" />
+</p>
 ---
-
-<div align="center">
-  <p>Made with ❤️ for developers worldwide</p>
-</div> 
