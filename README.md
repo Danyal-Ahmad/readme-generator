@@ -136,20 +136,20 @@ git push origin feature/your-feature-name
 
 
 ---
-
 ## Live Demo
-
 <p align="center">
   <a href="https://readme-generator-ai.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live Demo-Click%20Here-%239333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge" />
   </a>
 </p>
 
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Fast.+Smart.+Beautiful.;AI-powered+README+generation." alt="Typing SVG" />
 </p>
 
+---
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 20px; color: #9333EA; margin-top: 10px;">
   Built with <span style="color:#e25555;">&#10084;&#65039;</span> for developers
 </p>
