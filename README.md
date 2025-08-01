@@ -45,17 +45,10 @@
 
 ## 🛠 How It Works
 
-1. **Input Your Project Details**  
-   Add your project name, description, tech stack, features, install/usage instructions.
-
-2. **Select a Template**  
-   Choose a layout best suited for your target audience.
-
-3. **Generate and Preview**  
-   View a live-rendered README using real Markdown formatting.
-
-4. **Export with One Click**  
-   Instantly download or copy the final README for GitHub use.
+1. Add your project name, description, tech stack, features, install/usage instructions.  
+2. Choose a layout best suited for your target audience.  
+3. View a live-rendered README using real Markdown formatting.  
+4. Instantly download or copy the final README for GitHub use.
 
 ---
 
