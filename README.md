@@ -169,11 +169,11 @@ git push origin feature/your-feature-name
 ---
 
 ### 📬 Contact & Support
+[![GitHub Issues](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/github-issues.svg)](https://github.com/yourusername/readme-generator-saas/issues) 
+[![Email](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/email.svg)](mailto:support@readmegen.com) 
+[![LinkedIn](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/linkedin.svg)](https://www.linkedin.com/company/readmegen) 
+[![Peerlist](https://raw.githubusercontent.com/yourusername/readme-generator-saas/main/assets/peerlist.svg)](https://peerlist.io/readmegen)
 
-- ![GitHub Issues](https://img.shields.io/badge/-GitHub%20Issues-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub Issues](https://github.com/yourusername/readme-generator-saas/issues)  
-- ![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [support@readmegen.com](mailto:support@readmegen.com)  
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/company/readmegen)  
-- ![Peerlist](https://img.shields.io/badge/-Peerlist-0052cc?style=for-the-badge&logo=peerlist&logoColor=white) [Peerlist](https://peerlist.io/readmegen)
 
 ---
 ## Live Demo
