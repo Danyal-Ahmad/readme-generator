@@ -1,7 +1,7 @@
 # 🧠 README Generator SaaS
 
 <p align="center">
-  <img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="Banner" style="width: 100%; height: auto;" />
+  <img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="Banner" style="width: 70%; height: auto;" />
 </p>
 
 
@@ -168,18 +168,46 @@ git push origin feature/your-feature-name
 ```
 ---
 
+<p align="center" style="margin: 1.5rem 0;">
+  <a href="https://readme-generator-ai.vercel.app" 
+     style="
+       position: relative;
+       display: inline-block;
+       padding: 0.75rem 2rem;
+       font-size: 1.15rem;
+       font-weight: 700;
+       color: white;
+       text-decoration: none;
+       border-radius: 30px;
+       background: linear-gradient(270deg, #4F46E5, #8B5CF6, #6366F1);
+       background-size: 600% 600%;
+       animation: gradientShift 8s ease infinite;
+       box-shadow: 0 8px 15px rgba(99, 102, 241, 0.4);
+       transition: box-shadow 0.3s ease;
+     "
+     onmouseover="this.style.boxShadow='0 12px 24px rgba(139, 92, 246, 0.6)';"
+     onmouseout="this.style.boxShadow='0 8px 15px rgba(99, 102, 241, 0.4)';"
+  >
+    🚀 Live Demo
+  </a>
+</p>
+
+<style>
+@keyframes gradientShift {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+</style>
+---
 
 ## 📮 Support
 
 - Issues: [GitHub Issues](https://github.com/yourusername/readme-generator-saas/issues)  
 - Email: support@readmegen.com  
 - Twitter: [@readme_generator](https://twitter.com/readme_generator)
-
 ---
 
 <div align="center">
   <p>Made with ❤️ for developers worldwide</p>
-  <p>
-    <a href="https://readme-generator-ai.vercel.app">Live Demo</a> 
-  </p>
 </div> 
