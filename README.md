@@ -1,8 +1,9 @@
 # 🧠 README Generator SaaS
 
 <p align="center">
-  <img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="Banner" />
+  <img src="https://i.ibb.co/vxLm3WTb/Leonardo-Phoenix-10-Minimal-Saa-S-landing-banner-featuring-a-sl-0.jpg" alt="Banner" style="width: 100%; height: auto;" />
 </p>
+
 
 > Instantly generate professional, polished `README.md` files for your projects powered by AI, styled for developers and SaaS founders.
 
