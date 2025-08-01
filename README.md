@@ -165,10 +165,7 @@ git push origin feature/your-feature-name
 
 ### 📬 Contact & Support
 
-[![GitHub Issues](https://img.shields.io/badge/-Issues-24292e?style=for-the-badge&logo=github&logoColor=white&colorA=141414&colorB=3d3d3d)](https://github.com/yourusername/readme-generator-saas/issues)  
-[![Email](https://img.shields.io/badge/-Email-e94235?style=for-the-badge&logo=gmail&logoColor=white&colorA=ff6f61&colorB=e94235)](mailto:support@readmegen.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&colorA=004182&colorB=0a66c2)](https://www.linkedin.com/company/readmegen)  
-[![Peerlist](https://img.shields.io/badge/-Peerlist-00aaff?style=for-the-badge&logo=peerlist&logoColor=white&colorA=0077cc&colorB=00aaff)](https://peerlist.io/readmegen)
+[![GitHub Issues](https://img.shields.io/badge/-Issues-24292e?style=for-the-badge&logo=github&logoColor=white&colorA=141414&colorB=3d3d3d)](https://github.com/yourusername/readme-generator-saas/issues) - [![Email](https://img.shields.io/badge/-Email-e94235?style=for-the-badge&logo=gmail&logoColor=white&colorA=ff6f61&colorB=e94235)](mailto:support@readmegen.com) - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&colorA=004182&colorB=0a66c2)](https://www.linkedin.com/company/readmegen) - [![Peerlist](https://img.shields.io/badge/-Peerlist-00aaff?style=for-the-badge&logo=peerlist&logoColor=white&colorA=0077cc&colorB=00aaff)](https://peerlist.io/readmegen)
 
 
 ---
