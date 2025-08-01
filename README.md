@@ -128,7 +128,6 @@ git commit -m "Add: amazing feature"
 git push origin feature/your-feature-name
 
 ```
----
 
 ### 📬 Contact & Support
 
@@ -136,6 +135,7 @@ git push origin feature/your-feature-name
 
 
 ---
+
 ## Live Demo
 
 <p align="center">
