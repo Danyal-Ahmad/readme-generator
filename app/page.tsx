@@ -2,11 +2,11 @@
 
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import Header from '@/components/Header'
-import Hero from '@/components/Hero'
-import ReadmeGenerator from '@/components/ReadmeGenerator'
-import Features from '@/components/Features'
-import Footer from '@/components/Footer'
+import Header from '../components/Header'
+import Hero from '../components/Hero'
+import ReadmeGenerator from '../components/ReadmeGenerator'
+import Features from '../components/Features'
+import Footer from '../components/Footer'
 
 export default function Home() {
   const [showGenerator, setShowGenerator] = useState(false)
