@@ -1,4 +1,4 @@
-import { ReadmeTemplate } from '@/types'
+import { ReadmeTemplate } from '../types'
 
 export const templates: ReadmeTemplate[] = [
   {
