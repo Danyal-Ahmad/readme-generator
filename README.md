@@ -143,11 +143,12 @@ git push origin feature/your-feature-name
     <img src="https://img.shields.io/badge/🚀 Live Demo-Click%20Here-%239333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge" />
   </a>
 </p>
+
 ---
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+for+developers" 
+    src="https://readme-typing-svg.herokuapp.com?font=Lemon&size=26&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Built+with+%E2%9D%A4%EF%B8%8F+for+developers" 
     alt="Typing SVG" 
   />
 </p>
