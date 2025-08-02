@@ -43,15 +43,6 @@
 | Icons       | Lucide React                           |
 
 ---
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+for+developers" 
-    alt="Typing SVG" 
-  />
-</p>
-
-
----
 
 ## 🛠 How It Works
 
@@ -154,8 +145,9 @@ git push origin feature/your-feature-name
 </p>
 ---
 
-
-
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 20px; color: #9333EA; margin-top: 10px;">
-  Built with <span style="color:#e25555;">&#10084;&#65039;</span> for developers
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+for+developers" 
+    alt="Typing SVG" 
+  />
 </p>
