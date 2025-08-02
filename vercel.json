@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "OPENAI_API_KEY": "@openai-api-key"
+      "OPENAI_API_KEY": "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"
     }
   },
   "functions": {
