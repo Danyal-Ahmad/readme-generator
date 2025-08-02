@@ -9,11 +9,7 @@
 **README Generator SaaS** is an intelligent web tool that helps developers and product teams craft clean, engaging, and technically sound README files in seconds. With support for multiple templates, live preview, and one-click export, it simplifies documentation for projects of all sizes.
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Fast.+Smart.+Beautiful.;AI-powered+README+generation." alt="Typing SVG" />
-</p>
 
----
 
 ## 🚀 Key Features
 
@@ -48,7 +44,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Fast.+Smart.+Beautiful.;AI-powered+README+generation." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines= Built+with+&#10084;&#65039;+for+developers" alt="Typing SVG" />
 </p>
 
 ---
