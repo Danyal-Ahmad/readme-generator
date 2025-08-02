@@ -227,3 +227,5 @@ export const getTemplatesByCategory = () => {
 export const getRandomTemplate = (): ReadmeTemplate => {
   return templates[Math.floor(Math.random() * templates.length)]
 }
+
+
